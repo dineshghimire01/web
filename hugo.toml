@@ -1,0 +1,6 @@
+baseURL = 'https://dineshghimire10.org/'
+languageCode = 'en-us'
+title = 'Hi, I am '
+theme = 'ananke'
+
+
