@@ -1,6 +1,36 @@
-baseURL = 'https://dineshghimire10.org/'
+baseURL = 'https://dineshghimire01.github.io/Dinesh_website/'
 languageCode = 'en-us'
 title = 'Hi, I am '
 theme = 'ananke'
 
+[menu]
 
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+
+  [[menu.main]]
+    name = "CV"
+    url = "/files/CV_Dinesh.pdf"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

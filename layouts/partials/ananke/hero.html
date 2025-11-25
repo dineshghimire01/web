@@ -1,0 +1,16 @@
+<section class="w-100 mw8 center ph3 mb4 pv5 cover" 
+  style="background-image: url('{{ .Site.GetPage "home" }}{{ if .Params.featured_image }}{{ .Params.featured_image }}{{ end }}'); 
+         background-size: contain; 
+         background-repeat: no-repeat; 
+         background-position: center;">
+  <div class="white tc">
+    {{ if .Title }}
+    <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">{{ .Title }}</h1>
+    {{ end }}
+    {{ if .Params.description }}
+    <h2 class="fw1 f3 white-80 mt3 mb4 lh-copy">{{ .Params.description }}</h2>
+    {{ end }}
+  </div>
+</section>
+
+
