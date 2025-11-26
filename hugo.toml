@@ -36,5 +36,6 @@ theme = 'ananke'
     weight = 6
 
 
-relativeURLs = true
+publishDir = "public"
+relativeURLs = false
 canonifyURLs = true
