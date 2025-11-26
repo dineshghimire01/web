@@ -34,3 +34,7 @@ theme = 'ananke'
     name = "Contact"
     url = "/contact/"
     weight = 6
+
+
+relativeURLs = true
+canonifyURLs = true
