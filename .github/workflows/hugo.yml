@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This permissions block is required to allow the action to push to the gh-pages branch
+    permissions:
+      contents: write
+      
     steps:
     - uses: actions/checkout@v3
 
@@ -18,6 +22,7 @@ jobs:
         extended: true
 
     - name: Build
+      # Ensure the baseURL matches your repo name exactly
       run: hugo --minify --baseURL "https://dineshghimire01.github.io/Dinesh_website/"
       
     - name: Deploy
@@ -25,4 +30,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-
