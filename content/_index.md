@@ -1,9 +1,7 @@
 +++
 date = '2025-11-21T18:01:45-05:00'
 draft = false
-title = 'Dinesh Ghimire'
-featured_image = "drone.jpeg"
-
+featured_image = "website_cover.png"
 +++
 
  Welcome to my personal website. 
