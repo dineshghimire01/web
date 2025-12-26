@@ -12,4 +12,4 @@ I then joined West Virginia State University (WVSU) for my MS in Biotechnology. 
 
 After graduating from WVSU in Spring of 2023, I joined Cornell University for my doctoral degree in plant breeding and genetics from Fall 2023. Currently, I am a PhD candidate in the Robbins lab. 
 
-My research brings together phenomics, genomics, and enviromics with advanced statistical models to improve phenotyping (especially with UAVs), better capture plant–environment interactions and build tools that turn high-throughput data into selection decisions. The overall goal is to improve predictive breeding that accelerates development of high-yielding, climate-resilient, and stable crop varieties.
+My research brings together phenomics, genomics, and enviromics with advanced statistical models to improve phenotyping (especially with UAVs), better capture plant–environment interactions and build tools that turn high-throughput data into selection decisions in a breeding program. The overall goal is to improve predictive breeding that accelerates development of high-yielding, climate-resilient, and stable crop varieties.
