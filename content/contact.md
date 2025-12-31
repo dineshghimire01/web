@@ -1,7 +1,4 @@
-+++
-draft = true
-title = 'Contact'
-+++
+
 
 **Contact**: 
 ---
