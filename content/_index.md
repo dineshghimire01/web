@@ -1,10 +1,10 @@
 +++
 date = '2025-11-21T18:01:45-05:00'
 draft = false
-featured_image = "website_cover.png"
+featured_image = "website_cover2.png"
 +++
 
- Welcome to my personal website. 
+ Welcome to my personal website 
 ---
 
 • B.Sc.Ag Tribhuvan University, Nepal  
