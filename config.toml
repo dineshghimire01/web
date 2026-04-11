@@ -31,7 +31,7 @@ theme = 'ananke'
 
   [[menu.main]]
     name = "Featured"
-    url = "/featured/WVSU_Magazine_Featuring_Dinesh.pdf"
+    url = "files/WVSU.pdf"
     weight = 6
 
   [[menu.main]]
