@@ -12,11 +12,11 @@
   </url><url>
     <loc>http://localhost:1313/web/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/web/cv/</loc>
+  </url><url>
     <loc>http://localhost:1313/web/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/web/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/web/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/web/tags/</loc>
   </url>

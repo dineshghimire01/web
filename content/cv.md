@@ -1,5 +1,4 @@
 +++
-title = 'CV'
-draft = false
+#title = 'CV'
 +++
 
