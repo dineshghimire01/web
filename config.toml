@@ -30,9 +30,14 @@ theme = 'ananke'
     weight = 5
 
   [[menu.main]]
+    name = "Featured"
+    url = "/featured/WVSU_Magazine_Featuring_Dinesh.pdf"
+    weight = 6
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
 
 publishDir = "public"

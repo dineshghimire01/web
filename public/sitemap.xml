@@ -14,6 +14,10 @@
   </url><url>
     <loc>http://localhost:1313/web/cv/</loc>
   </url><url>
+    <loc>http://localhost:1313/web/education/</loc>
+  </url><url>
+    <loc>http://localhost:1313/web/featured/</loc>
+  </url><url>
     <loc>http://localhost:1313/web/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/web/categories/</loc>

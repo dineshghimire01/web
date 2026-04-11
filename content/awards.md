@@ -2,6 +2,9 @@
 
 **Grants, Awards, Scholarships, and Fellowships:** 
 
+* American Seed Trade Association (ASTA) Student Connection Fellow: 2026 
+  - Industry Ambassador; includes funding for participation in national leadership summit (~$3,000) 
+* Bayer B4U Mentorship Program Fellow, Bayer AG, USA: 2026  
 * Travel Grant from National Association of Plant Breeders (NAPB) (USD 1,000) in 2025
 * Travel Grant for Conference on Water, Climate, and Food Security, Texas (USD 3,000) in 2023
 * National Association of Plant Breeders (NAPB) Borlaug Scholar	in 2022
